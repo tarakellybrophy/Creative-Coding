@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Creative Coding Year 4 - Portfolio of Work
 
-You can use the [editor on GitHub](https://github.com/tarakellybrophy/Creative-Coding/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is a portfolio of the work I have completed so far in the Creative Coding module. Here you will find various p5.js sketches, and some explanations of the process involved in creating them.
 
 ### Markdown
 
