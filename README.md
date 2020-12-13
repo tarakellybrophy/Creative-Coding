@@ -5,4 +5,4 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 
 ### Sketch 1 - Introduction
 
-![Image](https://github.com/IADT-John-Montayne/exercise-01-color-shape-tarakellybrophy/blob/master/Main%20Exercises/Introduction/index.html)
+![Image](file:///C:/Users/TKB-9/Documents/GitHub/exercise-01-color-shape-tarakellybrophy/Main%20Exercises/Introduction/index.html)
