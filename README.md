@@ -9,4 +9,38 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 
 This was an introduction to the Creative Coding module. It uses HSB colour mode instead of RGB. The size and amount of squares/rectangles can be adjusted using the mouse position on the canvas.
 
-[file:///C:/Users/TKB-9/Documents/GitHub/exercise-01-color-shape-tarakellybrophy/Main%20Exercises/Introduction/index.html]
+function setup(){
+  createCanvas(500,500);
+  background(0);
+  colorMode(HSB,width,height,100);
+  noStroke();
+}
+
+function draw(){
+  //Comment here
+  // fill(255,0,0);
+  // rect(20,20,200,200);
+  // stroke(0);
+  // strokeWeight(2);
+  //
+  // ellipse(350,200,200,200);
+  // line(60,60,100,100);
+  // point()
+  let stepX = 10;
+  let stepY = 10;
+
+  for(let gridY=0; gridY<height; gridY=gridY+stepY){
+    for(let gridX=0; gridX<width; gridX=gridX+stepX){
+      fill(gridX,height-gridY,100);
+      rect(gridX,gridY,stepX,stepY);
+    }
+  }
+
+}
+
+function keyPressed(){
+  if(key=='s' || key=='S'){
+    saveCanvas(gd.timestamp(), 'png')
+  }
+}
+
