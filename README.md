@@ -9,38 +9,30 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 
 This was an introduction to the Creative Coding module. It uses HSB colour mode instead of RGB. The size and amount of squares/rectangles can be adjusted using the mouse position on the canvas.
 
-function setup(){
-  createCanvas(500,500);
-  background(0);
-  colorMode(HSB,width,height,100);
-  noStroke();
-}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../../libraries/p5/p5.min.js" type="text/javascript"></script>
 
-function draw(){
-  //Comment here
-  // fill(255,0,0);
-  // rect(20,20,200,200);
-  // stroke(0);
-  // strokeWeight(2);
-  //
-  // ellipse(350,200,200,200);
-  // line(60,60,100,100);
-  // point()
-  let stepX = 10;
-  let stepY = 10;
+    <script src="../../libraries/p5/p5.dom.min.js" type="text/javascript"></script>
+    <script src="../../libraries/generative-design-library/generative-design-library.js" type="text/javascript"></script>
 
-  for(let gridY=0; gridY<height; gridY=gridY+stepY){
-    for(let gridX=0; gridX<width; gridX=gridX+stepX){
-      fill(gridX,height-gridY,100);
-      rect(gridX,gridY,stepX,stepY);
-    }
-  }
+    <script src="sketch.js" type="text/javascript"></script>
 
-}
+    <link href="../../styles/main.css" rel="stylesheet" type="text/css">
 
-function keyPressed(){
-  if(key=='s' || key=='S'){
-    saveCanvas(gd.timestamp(), 'png')
-  }
-}
+    <!-- help tooltip start -->
+    <script src="../../libraries/jquery/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../../libraries/tooltipster/tooltipster.bundle.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../libraries/tooltipster/tooltipster.bundle.css" />
+    <link rel="stylesheet" type="text/css" href="../../libraries/tooltipster/tooltipster-sideTip-noir.min.css" />
+    <script src="../../libraries/help-tooltip.js" type="text/javascript"></script>
+    <!-- help tooltip end -->
+  </head>
+  <body>
+    <span id="help" data-tooltip-content="#help-content">?</span>
+  </body>
+</html>
 
