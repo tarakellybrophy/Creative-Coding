@@ -9,4 +9,4 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 
 This was an introduction to the Creative Coding module. It uses HSB colour mode instead of RGB. The size and amount of squares/rectangles can be adjusted using the mouse position on the canvas.
 
-<script src="sketch.js" type="text/javascript"></script>
+<iframe src="Introduction/index.html" width="600px" height="400px"></iframe>
