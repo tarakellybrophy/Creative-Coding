@@ -6,3 +6,7 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 ### Sketch 1 - Introduction
 
 ![Image](https://github.com/IADT-John-Montayne/exercise-01-color-shape-tarakellybrophy/blob/master/Main%20Exercises/Introduction/Images/201213_211608_181.png)
+
+This was an introduction to the Creative Coding module. It uses HSB colour mode instead of RGB. The size and amount of squares/rectangles can be adjusted using the mouse position on the canvas.
+
+[Link](file:///C:/Users/TKB-9/Documents/GitHub/exercise-01-color-shape-tarakellybrophy/Main%20Exercises/Introduction/index.html)
