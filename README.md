@@ -26,10 +26,9 @@ This is the first exercise that was completed after the introduction. The width 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
+![Screenshot](/Exercise%2002/Images/00929_151636_514.png)
 
-![Screenshot](/Introduction/Images/00929_151636_514.png)
-
-![Screenshot](/Introduction/Images/200929_151516_280.png)
+![Screenshot](/Exercise%2002/Images/200929_151516_280.png)
 
 
 ### Colour & Shape Exercise 03 - Colour Wheel
@@ -43,7 +42,7 @@ In this exercise, the p5 shape TRIANGLE_FAN was used to create a colour wheel, w
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Introduction/Images/201214_111922_728.png)
+![Screenshot](/Exercise%2003_ColourWheel/Images/201214_111922_728.png)
 
 
 ### Colour & Shape Exercise 04 - Translations
@@ -57,7 +56,7 @@ A simple translation using a rectangle.
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Introduction/Images/201214_112124_623.png)
+![Screenshot](/Exercise%2004_Translations/201214_112124_623.png)
 
 
 ### Final Colour Exercise
@@ -71,9 +70,9 @@ A simple tool that allows the user to draw on the canvas. Colour interpolation w
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Introduction/Images/201012_205726_552.png)
+![Screenshot](/Final_Colours_Exercise/Images/201012_205726_552.png)
 
-![Screenshot](/Introduction/Images/201014_100125_625.png)
+![Screenshot](/Final_Colours_Exercise/Images/201014_100125_625.png)
 
 
 ### Shape & Pattern - Rotation/Atan
@@ -87,9 +86,9 @@ This exercise was done using atan2 in p5. It consists of ellipses (circles) that
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Introduction/Images/201214_114212_275.png)
+![Screenshot](/Rotation_atan_2/Images/201214_114212_275.png)
 
-![Screenshot](/Introduction/Images/201214_114230_9655.png)
+![Screenshot](/Rotation_atan_2/Images/201214_114230_9655.png)
 
 
 ### Shape & Pattern - Random Lines Pattern
@@ -100,7 +99,7 @@ This pattern of random lines was created using a grid of squares and a randomNum
   <span>See the Pen <a href="https://codepen.io/TaraKB/pen/eYdgaGZ">
   Random Pattern</a> by TKB (<a href="https://codepen.io/TaraKB">@TaraKB</a>)
 
-![Screenshot](/Introduction/Images/201214_114635_581.png)
+![Screenshot](/Random_pattern/201214_114635_581.png)
 
 
 ### Shape & Pattern - My Random Pattern
@@ -111,7 +110,7 @@ In this exercise, I created my own random pattern based on the previous one. Thi
   <span>See the Pen <a href="https://codepen.io/TaraKB/pen/poERmav">
   My Random Pattern</a> by TKB (<a href="https://codepen.io/TaraKB">@TaraKB</a>)
 
-![Screenshot](/Introduction/Images/201214_115304_310.png)
+![Screenshot](/Random_pattern_MyPattern/201214_115304_310.png)
 
 
 ### Final Shape & Pattern exercise - Wrapping Paper project
@@ -124,9 +123,9 @@ This project underwent several iterations, first to test the design and colours 
   <span>See the Pen <a href="https://codepen.io/TaraKB/pen/ExgZzem">
   Wrapping Paper pattern</a> by TKB (<a href="https://codepen.io/TaraKB">@TaraKB</a>)
 
-![Screenshot](/Introduction/Images/201117_232828_790.png)
+![Screenshot](/Zigzag_final/Images/201117_232828_790.png)
 
-![Screenshot](/Introduction/Images/201117_232747_885.png)
+![Screenshot](/Zigzag_final/Images/201117_232747_885.png)
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="TaraKB" data-slug-hash="yLagWQO" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Wrapping Paper pattern - Final Size">
   <span>See the Pen <a href="https://codepen.io/TaraKB/pen/yLagWQO">
