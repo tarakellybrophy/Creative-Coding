@@ -12,6 +12,8 @@ This was an introduction to the Creative Coding module. It uses HSB colour mode 
   (<a href='https://codepen.io/TaraKB'>@TaraKB</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
+![Screenshot](/Introduction/Images/201213_211608_181.png)
+
 
 ### Colour & Shape - Exercise 02
 
