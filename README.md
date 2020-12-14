@@ -7,7 +7,7 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 
 This was an introduction to the Creative Coding module. It uses HSB colour mode instead of RGB. The size and amount of squares/rectangles can be adjusted using the mouse position on the canvas.
 
-<p class="codepen" data-height="630" data-theme-id="dark" data-default-tab="js,result" data-user="TaraKB" data-slug-hash="LYRxaLX" style="height: 630px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Introduction">
+<p class="codepen" data-height="630" data-theme-id="dark" data-default-tab="js,result" data-user="TaraKB" data-slug-hash="LYRxaLX" style="height: 630px; width: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Introduction">
   <span>See the Pen <a href="https://codepen.io/TaraKB/pen/LYRxaLX">
   Introduction</a> by TKB (<a href="https://codepen.io/TaraKB">@TaraKB</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
