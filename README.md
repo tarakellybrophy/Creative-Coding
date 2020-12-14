@@ -7,14 +7,14 @@ This site is a portfolio of the work I have completed so far in the Creative Cod
 
 This was an introduction to the Creative Coding module. It uses HSB colour mode instead of RGB. The size and amount of squares/rectangles can be adjusted using the mouse position on the canvas.
 
-<iframe src="Introduction/index.html" width="600px" height="600px"></iframe>
+<iframe src="Introduction/index.html" width="500px" height="600px"></iframe>
 
 
 ### Colour & Shape - Exercise 01
 
 This is the first exercise that was completed after the introduction. 
 
-<iframe src="Exercise%2001/index.html" width="600px" height="600px"></iframe>
+<iframe src="Exercise%2001/index.html" width="500px" height="600px"></iframe>
 
 
 
