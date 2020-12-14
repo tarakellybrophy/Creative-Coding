@@ -14,6 +14,7 @@ This was an introduction to the Creative Coding module. It uses HSB colour mode 
 
 ![Screenshot](/Introduction/Images/201213_211608_181.png)  
 
+---
 
 ### Colour & Shape - Exercise 02
 
@@ -30,6 +31,7 @@ This is the first exercise that was completed after the introduction. The width 
 
 ![Screenshot](/Exercise%2002/Images/200929_151516_280.png)  
 
+---
 
 ### Colour & Shape Exercise 03 - Colour Wheel
 
@@ -44,6 +46,7 @@ In this exercise, the p5 shape TRIANGLE_FAN was used to create a colour wheel, w
 
 ![Screenshot](/Exercise%2003_ColourWheel/Images/201214_111922_728.png)  
 
+---
 
 ### Colour & Shape Exercise 04 - Translations
 
@@ -58,6 +61,7 @@ A simple translation using a rectangle.
 
 ![Screenshot](/Exercise%2004_Translations/201214_112124_623.png)  
 
+---
 
 ### Final Colour Exercise
 
@@ -74,6 +78,7 @@ A simple tool that allows the user to draw on the canvas. Colour interpolation w
 
 ![Screenshot](/Final_Colours_Exercise/Images/201014_100125_625.png)  
 
+---
 
 ### Shape & Pattern - Rotation/Atan
 
@@ -90,6 +95,7 @@ This exercise was done using atan2 in p5. It consists of ellipses (circles) that
 
 ![Screenshot](/Rotation_atan_2/Images/201214_114230_9655.png)  
 
+---
 
 ### Shape & Pattern - Random Lines Pattern
 
@@ -101,6 +107,7 @@ This pattern of random lines was created using a grid of squares and a randomNum
 
 ![Screenshot](/Random_pattern/201214_114635_581.png)  
 
+---
 
 ### Shape & Pattern - My Random Pattern
 
@@ -112,6 +119,7 @@ In this exercise, I created my own random pattern based on the previous one. Thi
 
 ![Screenshot](/Random_pattern_MyPattern/201214_115304_310.png)  
 
+---
 
 ### Final Shape & Pattern exercise - Wrapping Paper project
 
