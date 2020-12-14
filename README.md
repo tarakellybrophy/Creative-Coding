@@ -17,10 +17,12 @@ This was an introduction to the Creative Coding module. It uses HSB colour mode 
 
 This is the first exercise that was completed after the introduction. The width and height of the squares/rectangles can be adjusted using the mouse. This was done by using mouseX and mouseY variables.
 
-<iframe height="623" width="800" style="width: 100%;" scrolling="no" title="yLagrNE" src="https://codepen.io/TaraKB/embed/yLagrNE?height=623&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/TaraKB/pen/yLagrNE'>yLagrNE</a> by TKB
-  (<a href='https://codepen.io/TaraKB'>@TaraKB</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<p class="codepen" data-height="623" data-theme-id="dark" data-default-tab="js,result" data-user="TaraKB" data-slug-hash="yLagrNE" style="height: 623px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="yLagrNE">
+  <span>See the Pen <a href="https://codepen.io/TaraKB/pen/yLagrNE">
+  yLagrNE</a> by TKB (<a href="https://codepen.io/TaraKB">@TaraKB</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 
