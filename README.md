@@ -136,6 +136,8 @@ This project underwent several iterations, first to test the design and colours 
 
 ![Screenshot](/Zigzag_final/Images/201117_232747_885.png)
 
+![Screenshot](/Zigzag_final/Images/201124_234010_129.png)
+
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="TaraKB" data-slug-hash="yLagWQO" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Wrapping Paper pattern - Final Size">
   <span>See the Pen <a href="https://codepen.io/TaraKB/pen/yLagWQO">
   Wrapping Paper pattern - Final Size</a> by TKB (<a href="https://codepen.io/TaraKB">@TaraKB</a>)
