@@ -2,6 +2,7 @@
 
 This site is a portfolio of the work I have completed so far in the Creative Coding module. Here you will find various p5.js sketches, and some explanations of the process involved in creating them. These sketches can also be viewed on CodePen.io. (Note: Webpage and sketches may be slow to load, or become unresponsive.)
 
+---
 
 ### Introduction/Exercise 01
 
@@ -44,7 +45,7 @@ In this exercise, the p5 shape TRIANGLE_FAN was used to create a colour wheel, w
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Exercise%2003_ColourWheel/Images/201214_111922_728.png)  
+![Screenshot](/Exercise%2003_ColourWheel/201214_111922_728.png)  
 
 ---
 
@@ -91,9 +92,9 @@ This exercise was done using atan2 in p5. It consists of ellipses (circles) that
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Rotation_atan_2/Images/201214_114212_275.png)
+![Screenshot](/Rotation_atan_2/201214_114212_275.png)
 
-![Screenshot](/Rotation_atan_2/Images/201214_114230_9655.png)  
+![Screenshot](/Rotation_atan_2/201214_114230_9655.png)  
 
 ---
 
