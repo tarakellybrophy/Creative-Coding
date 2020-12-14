@@ -1,6 +1,6 @@
 ## Creative Coding Year 4 - Portfolio of Work
 
-This site is a portfolio of the work I have completed so far in the Creative Coding module. Here you will find various p5.js sketches, and some explanations of the process involved in creating them. These sketches can also be viewed on CodePen.io. (Note: Webpage and sketches may be slow to load, or become unresponsive.)
+This site is a portfolio of the work I have completed so far in the Creative Coding module. Here you will find various p5.js sketches, and some explanations of the process involved in creating them. These sketches can also be viewed on CodePen.io. (Note: Screenshots and sketches may be slow to load, or become unresponsive. Sketches are best viewed on CodePen.)
 
 ---
 
