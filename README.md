@@ -26,7 +26,7 @@ This is the first exercise that was completed after the introduction. The width 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-![Screenshot](/Exercise%2002/Images/00929_151636_514.png)
+![Screenshot](/Exercise%2002/Images/200929_151636_514.png)
 
 ![Screenshot](/Exercise%2002/Images/200929_151516_280.png)
 
