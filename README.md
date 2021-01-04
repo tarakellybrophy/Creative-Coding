@@ -121,6 +121,7 @@ In this exercise, I created my own random pattern based on the previous one. Thi
 ![Screenshot](/Random_pattern_MyPattern/201214_115304_310.png)  
 
 ---
+---
 
 ### Final Shape & Pattern exercise - Wrapping Paper project
 
@@ -145,7 +146,7 @@ This project underwent several iterations, first to test the design and colours 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-Progress images of the final pattern can be found on the Invision board previosuly mentioned in this section.
+Progress images of the final pattern can be found on the Invision board previously mentioned in this section.
 
 
 
